@@ -2,11 +2,11 @@
 
 Desenvolvedor Full-stack.
 
-🎓 Estudando Engenharia da Computação no FSA.
+🎓 Estudando Ciência da Computação na USCS.
 
-🎓 Estudando Desenvolvimento de Sistema no Senai Paulo Skaf(Curso Tecnico).
+🎓 Formado em Desenvolvimento de Sistema no Senai Paulo Skaf(Curso Tecnico).
 
-🌱 Aprendendo mais sobre C#.
+🌱 Aprendendo mais sobre JAVA.
 
 
 ---
